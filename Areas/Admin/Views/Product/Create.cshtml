@@ -1,0 +1,15 @@
+﻿@using eshop_srytr.Areas.Admin.Controllers
+@model ProductItem
+
+@{
+    ViewData["Title"] = "Create product item";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+
+@{
+    ViewBag.Action = nameof(ProductController.Create);
+}
+
+<partial name="CreateEditForm" model="Model" />

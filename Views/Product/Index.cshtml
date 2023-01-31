@@ -1,0 +1,257 @@
+﻿@using eshop_srytr.Controllers
+@model ProductViewModel
+
+@{
+    ViewData["Title"] = "Product Page";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/item.css" />
+}
+
+<div class="rating-alert alert alert-danger" role="alert">
+    Your rating was not saved, because you have already rated this product.
+</div>
+
+<div class="modal fade" id="reviewModal" tabindex="-1" role="dialog" aria-labelledby="reviewModal" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Enter your rating</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                @{
+                    if (User.Identity.IsAuthenticated == true)
+                    {
+                        <div class="rating mb-4">
+                            <div class="rating__stars">
+                                <meter class="rating__score" id="rating-modal" value="0" min="0" max="5"></meter>
+                            </div>
+                        </div>
+
+                        <form asp-action="@nameof(ProductController.CreateReview)" method="post" enctype="multipart/form-data">
+                            <input asp-for="Review.ReviewRating" id="rating-form-input" type="hidden">
+                            <input asp-for="Review.UserName" type="hidden" value="@User.Identity.Name">
+                            <input asp-for="Review.ProductId" type="hidden" value="@Model.ProductItem.ID">
+
+                            <div class="form-group">
+                                <label asp-for="Review.ReviewComment">Review</label>
+                                <textarea asp-for="Review.ReviewComment" class="form-control" rows="5" placeholder=""></textarea>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary">Submit Review</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <p>You have to <a asp-area="Security" asp-controller="Account" asp-action="Login">log in</a> first before sending review!</p>
+                    }
+                }
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="row gx-4 gx-lg-5 align-items-center">
+            <div class="col-md-6"><img class="card-img-top mb-5 mb-md-0" src="@Model.ProductItem.ImageSource" alt="@Model.ProductItem.ImageAlt" /></div>
+            <div class="col-md-6">
+                <h1 class="display-5 fw-bolder">@Model.ProductItem.Name</h1>
+                <div class="fs-5 mb-2">
+                    <span>@Model.ProductItem.Price Kč</span>
+                </div>
+
+                <div class="rating rating--pointer">
+                    <div class="rating__inputs" data-toggle="modal" data-target="#reviewModal">
+                        <input name="rated_product" type="radio" value="1">
+                        <input name="rated_product" type="radio" value="2">
+                        <input name="rated_product" type="radio" value="3">
+                        <input name="rated_product" type="radio" value="4">
+                        <input name="rated_product" type="radio" value="5">
+                    </div>
+
+                    <div class="rating__stars">
+                        <meter class="rating__score" value="@Model.ProductItem.ProductRating" min="0" max="5"></meter>
+                    </div>
+                </div>
+
+                <p class="mb-5">
+                    <strong>@Math.Round(Model.ProductItem.ProductRating, 2)</strong>
+                    <small>
+                        (@(Model.ProductItem.Reviews != null ? Model.ProductItem.Reviews.Count() : 0) hodnocení)
+                    </small>
+                </p>
+
+                <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?</p>
+                <div class="d-flex">
+                    <input class="form-control text-center me-3" id="inputQuantity" type="number" value="1" style="max-width: 3rem" />
+                    <button class="btn btn-outline-dark flex-shrink-0" type="button"
+                            onclick="Buy(@Model.ProductItem.ID,'@Url.Action("AddOrderItemsToSession", "CustomerOrderNotCart", new { Area = "Customer" })', '#total_price', '@System.Globalization.CultureInfo.CurrentCulture.Name')">
+                        <i class="bi-cart-fill me-1"></i>
+                        Add to cart
+                    </button>
+                </div>
+            </div>
+        </div>
+</section>
+
+<section class="py-5 bg-light">
+    <div class="container px-4 px-lg-5 mt-3">
+        <h2 class="fw-bolder mb-2">@Model.ProductItem.Name Rating</h2>
+
+        <div class="reviews row mx-0 mt-5">
+            @{
+                if (Model.ProductItem.Reviews != null)
+                {
+                    foreach (var review in Model.ProductItem.Reviews)
+                    {
+                        <div class="reviews__item col-md-8 border rounded p-3 mt-3 bg-white">
+                            @if (review.UserName == User.Identity.Name)
+                            {
+                                <a class="reviews__edit" asp-action="DeleteReview" asp-route-ID="@review.ID">
+                                    <img src="~/img/delete.svg" />
+                                </a>
+                            }
+
+                            <div>
+                                <h5 class="h5 g-color-gray-dark-v1 mb-0">@review.UserName</h5>
+                                <span class="g-color-gray-dark-v4 g-font-size-12">@review.DateTimeCreated</span>
+
+                                <div class="rating">
+                                    <div class="rating__stars">
+                                        <meter class="rating__score" value="@review.ReviewRating" min="0" max="5"></meter>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <p>
+                                @review.ReviewComment
+                            </p>
+                        </div>
+                    };
+                }
+            }
+        </div>
+    </div>
+</section>
+
+<section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <h2 class="fw-bolder mb-4">Related products</h2>
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            <div class="col mb-5">
+                <div class="card h-100">
+                    <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                    <div class="card-body p-4">
+                        <div class="text-center">
+                            <h5 class="fw-bolder">Fancy Product</h5>
+                            $40.00 - $80.00
+                        </div>
+                    </div>
+                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                        <div class="text-center"><a class="btn btn-outline-dark mt-auto">View options</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-5">
+                <div class="card h-100">
+                    <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
+                    <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                    <div class="card-body p-4">
+                        <div class="text-center">
+                            <h5 class="fw-bolder">Special Item</h5>
+                            <div class="d-flex justify-content-center small text-warning mb-2">
+                                <div class="bi-star-fill"></div>
+                                <div class="bi-star-fill"></div>
+                                <div class="bi-star-fill"></div>
+                                <div class="bi-star-fill"></div>
+                                <div class="bi-star-fill"></div>
+                            </div>
+                            <span class="text-muted text-decoration-line-through">$20.00</span>
+                            $18.00
+                        </div>
+                    </div>
+                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                        <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-5">
+                <div class="card h-100">
+                    <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
+                    <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                    <div class="card-body p-4">
+                        <div class="text-center">
+                            <h5 class="fw-bolder">Sale Item</h5>
+                            <span class="text-muted text-decoration-line-through">$50.00</span>
+                            $25.00
+                        </div>
+                    </div>
+                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                        <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-5">
+                <div class="card h-100">
+                    <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                    <div class="card-body p-4">
+                        <div class="text-center">
+                            <h5 class="fw-bolder">Popular Item</h5>
+                            <div class="d-flex justify-content-center small text-warning mb-2">
+                                <div class="bi-star-fill"></div>
+                                <div class="bi-star-fill"></div>
+                                <div class="bi-star-fill"></div>
+                                <div class="bi-star-fill"></div>
+                                <div class="bi-star-fill"></div>
+                            </div>
+                            $40.00
+                        </div>
+                    </div>
+                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                        <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+@section Scripts {
+    @if (Model.state == "chyba")
+    {
+        <script>
+            const alert = document.querySelector(".rating-alert");
+
+            alert.classList.add('show-alert');
+
+            setTimeout(() => {
+                alert.classList.remove('show-alert');
+            }, 4000);
+        </script>
+    }
+
+    <environment include="Development">
+        <script src="~/js/Product.js"></script>
+    </environment>
+
+    <environment exclude="Development">
+        <script src="~/js/Product.min.js"></script>
+    </environment>
+}
+
+
+
+

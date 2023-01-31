@@ -1,0 +1,21 @@
+﻿@using eshop_srytr.Areas.Admin.Controllers
+@model CarouselItem
+
+@{
+    ViewData["Title"] = "Edit carousel item";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Carousel item editing page.</p>
+
+@{
+    ViewBag.Action = nameof(CarouselController.Edit);
+}
+
+<partial name="CreateEditForm" model="Model" />
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/js/FileContentValidation.js"></script>
+}

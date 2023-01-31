@@ -1,0 +1,889 @@
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/appsettings.json
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/eshop_srytr.exe
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/eshop_srytr.deps.json
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/eshop_srytr.runtimeconfig.json
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/eshop_srytr.runtimeconfig.dev.json
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/eshop_srytr.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ref/eshop_srytr.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/eshop_srytr.pdb
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/eshop_srytr.Views.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/eshop_srytr.Views.pdb
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.AssemblyReference.cache
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.AssemblyInfoInputs.cache
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.AssemblyInfo.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.CoreCompileInputs.cache
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorAssemblyInfo.cache
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorAssemblyInfo.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/staticwebassets/eshop_srytr.StaticWebAssets.Manifest.cache
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/staticwebassets/eshop_srytr.StaticWebAssets.xml
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/scopedcss/bundle/eshop_srytr.styles.css
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.TagHelpers.input.cache
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.TagHelpers.output.cache
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorCoreGenerate.cache
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorTargetAssemblyInfo.cache
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorTargetAssemblyInfo.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.Views.pdb
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/ref/eshop_srytr.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.pdb
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.genruntimeconfig.cache
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.CopyComplete
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Test.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Humanizer.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/System.Composition.Convention.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/System.Composition.Hosting.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/System.Composition.Runtime.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/System.Composition.TypedParts.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Select.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Edit.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Create.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/CreateEditForm.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Create.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/CreateEditForm.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Edit.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Select.cshtml.g.cs
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/MySqlConnector.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/j_srytr/source/repos/eshop_srytr/eshop_srytr/obj/Debug/net5.0/Razor/Views/Product/Index.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/appsettings.Development.json
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/appsettings.json
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.StaticWebAssets.xml
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.deps.json
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.runtimeconfig.json
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.runtimeconfig.dev.json
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ref/eshop_srytr.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.pdb
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.Views.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.Views.pdb
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Humanizer.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/MySqlConnector.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.AssemblyReference.cache
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.AssemblyInfoInputs.cache
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.AssemblyInfo.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.MvcApplicationPartsAssemblyInfo.cache
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorAssemblyInfo.cache
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorAssemblyInfo.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/scopedcss/bundle/eshop_srytr.styles.css
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/staticwebassets/eshop_srytr.StaticWebAssets.Manifest.cache
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.TagHelpers.input.cache
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.TagHelpers.output.cache
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorCoreGenerate.cache
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Create.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/CreateEditForm.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Edit.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Select.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Create.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/CreateEditForm.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Edit.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Select.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Test.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Product/Index.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorTargetAssemblyInfo.cache
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorTargetAssemblyInfo.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.Views.pdb
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.CopyComplete
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/ref/eshop_srytr.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.pdb
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.genruntimeconfig.cache
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/Account/Login.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/Account/Register.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/_ViewImports.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/_ViewStart.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Create.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Delete.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Details.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Edit.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Index.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Create.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Delete.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Details.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Edit.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Index.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Create.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Delete.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Details.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Edit.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Index.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Customer/Views/CustomerOrders/Index.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Customer/Views/_ViewImports.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Customer/Views/_ViewStart.cshtml.g.cs
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/jirisrytr/Downloads/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/appsettings.Development.json
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/appsettings.json
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.StaticWebAssets.xml
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.deps.json
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.runtimeconfig.json
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.runtimeconfig.dev.json
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ref/eshop_srytr.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.Views.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/eshop_srytr.Views.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Humanizer.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/MySqlConnector.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.AssemblyReference.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.AssemblyInfoInputs.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.AssemblyInfo.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.CoreCompileInputs.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.MvcApplicationPartsAssemblyInfo.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorAssemblyInfo.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorAssemblyInfo.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/scopedcss/bundle/eshop_srytr.styles.css
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/staticwebassets/eshop_srytr.StaticWebAssets.Manifest.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.TagHelpers.input.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.TagHelpers.output.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorCoreGenerate.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Create.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/CreateEditForm.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Edit.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Select.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Create.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Delete.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Details.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Edit.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Create.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Delete.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Details.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Edit.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Create.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/CreateEditForm.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Edit.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Select.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Create.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Delete.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Details.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Edit.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Customer/Views/CustomerOrders/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Customer/Views/_ViewImports.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Customer/Views/_ViewStart.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/Account/Login.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/Account/Register.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/_ViewImports.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/_ViewStart.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Test.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Product/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorTargetAssemblyInfo.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorTargetAssemblyInfo.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.Views.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.CopyComplete
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/ref/eshop_srytr.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/obj/Debug/net5.0/eshop_srytr.genruntimeconfig.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Eshop_ASP-main 2/eshop_srytr/bin/Debug/net5.0/MyLibDummy.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/appsettings.Development.json
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/appsettings.json
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/eshop_srytr.StaticWebAssets.xml
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/eshop_srytr.deps.json
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/eshop_srytr.runtimeconfig.json
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/eshop_srytr.runtimeconfig.dev.json
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/eshop_srytr.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ref/eshop_srytr.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/eshop_srytr.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/eshop_srytr.Views.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/eshop_srytr.Views.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Humanizer.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/MySqlConnector.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/MyLibDummy.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.AssemblyReference.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.AssemblyInfoInputs.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.AssemblyInfo.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.CoreCompileInputs.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.MvcApplicationPartsAssemblyInfo.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorAssemblyInfo.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorAssemblyInfo.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/scopedcss/bundle/eshop_srytr.styles.css
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/staticwebassets/eshop_srytr.StaticWebAssets.Manifest.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.TagHelpers.input.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.TagHelpers.output.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorCoreGenerate.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Create.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/CreateEditForm.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Edit.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Carousel/Select.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Create.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Delete.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Details.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Edit.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/OrderItems/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Create.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Delete.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Details.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Edit.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Orders/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Create.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/CreateEditForm.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Edit.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Select.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Create.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Delete.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Details.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Edit.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/Users/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Customer/Views/CustomerOrders/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Customer/Views/_ViewImports.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Customer/Views/_ViewStart.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/Account/Login.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/Account/Register.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/_ViewImports.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Areas/Security/Views/_ViewStart.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Views/Home/Test.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Views/Product/Index.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorTargetAssemblyInfo.cache
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.RazorTargetAssemblyInfo.cs
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.Views.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.csproj.CopyComplete
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/ref/eshop_srytr.dll
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.pdb
+/Users/jinambo/UNIVERSITY/www/semestral_project/Srytr_PW/eshop_srytr/obj/Debug/net5.0/eshop_srytr.genruntimeconfig.cache
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\appsettings.json
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\eshop_srytr.StaticWebAssets.xml
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\eshop_srytr.exe
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\eshop_srytr.deps.json
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\eshop_srytr.runtimeconfig.json
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\eshop_srytr.runtimeconfig.dev.json
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\eshop_srytr.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ref\eshop_srytr.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\eshop_srytr.pdb
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\eshop_srytr.Views.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\eshop_srytr.Views.pdb
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\MyLibDummy.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Workm\Desktop\E-Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.csproj.AssemblyReference.cache
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.AssemblyInfoInputs.cache
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.AssemblyInfo.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.csproj.CoreCompileInputs.cache
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.RazorAssemblyInfo.cache
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.RazorAssemblyInfo.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\scopedcss\bundle\eshop_srytr.styles.css
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\staticwebassets\eshop_srytr.StaticWebAssets.Manifest.cache
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.TagHelpers.input.cache
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.TagHelpers.output.cache
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.RazorCoreGenerate.cache
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Create.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\CreateEditForm.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Edit.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Select.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Create.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Delete.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Details.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Edit.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Index.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Create.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Delete.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Details.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Edit.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Index.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\CreateEditForm.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Select.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Delete.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Details.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Customer\Views\CustomerOrders\Index.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Security\Views\Account\Login.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Security\Views\Account\Register.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Security\Views\_ViewImports.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Areas\Security\Views\_ViewStart.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Views\Home\Test.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.RazorTargetAssemblyInfo.cache
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.RazorTargetAssemblyInfo.cs
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.Views.pdb
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.csproj.CopyComplete
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.dll
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\ref\eshop_srytr.dll
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.pdb
+C:\Users\Workm\Desktop\E-Shop\obj\Debug\net5.0\eshop_srytr.genruntimeconfig.cache

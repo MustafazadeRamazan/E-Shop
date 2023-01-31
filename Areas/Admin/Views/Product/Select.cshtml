@@ -1,0 +1,171 @@
+﻿@model IList<ProductItem>;
+
+@{
+    ViewData["Title"] = "Products";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+
+<div class="mt-4 text-right">
+    <a asp-action="Create" class="btn btn-success">
+        <i class="bi bi-plus-square"></i>
+        NEW PRODUCT
+    </a>
+</div>
+
+@{
+    if (Model != null || Model.Count > 0)
+    {
+        <div class="admin-panel border rounded shadow wrapper">
+            <div class="row text-white bg-dark px-4 py-2 rounded">
+                <div class="col-1">ID</div>
+                <div class="col-4">Title</div>
+                <div class="col-2">Rating</div>
+                <div class="col-2">Reviews</div>
+                <div class="col-3 text-right">Actions</div>
+            </div>
+
+
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <div class="row admin-panel__item px-4 py-2">
+                    <div class="col-1">@Model[i].ID</div>
+                    <div class="col-4">
+                        <a class="btn btn-outline-dark mt-auto" asp-area="" asp-controller="Product" asp-action="Index" asp-route-ID="@Model[i].ID">
+                            @Model[i].Name
+                        </a>
+                    </div>
+                    <div class="col-2">
+                        <div class="rating rating--sm">
+                            <div class="rating__stars">
+                                <meter class="rating__score" value="@Model[i].ProductRating" min="0" max="5"></meter>
+                            </div>
+                        </div>
+                        <small>(@Math.Round(Model[i].ProductRating, 2) / 5)</small>
+                    </div>
+                    <div class="col-2">
+                        <a class="admin-panel__toggle">
+                            <input type="checkbox" data-toggle="toggle" data-size="sm">
+                        </a>
+                    </div>
+                    <div class="col-3 text-right">
+                        <a asp-action="Edit" asp-route-ID="@Model[i].ID" class="btn btn-primary">
+                            <i class="bi bi-pencil-fill"></i>
+                        </a>
+                        <a asp-action="Delete" asp-route-ID="@Model[i].ID" onclick="return confirmDelete();" class="btn btn-danger">
+                            <i class="bi bi-trash-fill"></i>
+                        </a>
+                    </div>
+
+                    <div class="col-12 mt-4 admin-panel__reviews">
+                        <div class="row text-white bg-dark rounded px-4 py-2">
+                            <div class="col-1">ID</div>
+                            <div class="col-2">User</div>
+                            <div class="col-2">Rating</div>
+                            <div class="col-4">Comment</div>
+                            <div class="col-3 text-right">Action</div>
+                        </div>
+                        @{
+                            if (Model[i].Reviews != null && Model[i].Reviews.Count() > 0)
+                            {
+                                @foreach (var review in Model[i].Reviews)
+                                {
+                                    <div class="admin-panel__review row rounded mt-2 px-4 py-2">
+                                        <div class="col-1">@review.ID</div>
+                                        <div class="col-2">@review.UserName</div>
+                                        <div class="col-2">
+                                            <div class="rating rating--sm">
+                                                <div class="rating__stars">
+                                                    <meter class="rating__score" value="@review.ReviewRating" min="0" max="5"></meter>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-4">@review.ReviewComment</div>
+                                        <div class="col-3 text-right">
+                                            <a class="admin-panel__edit btn btn-primary">
+                                                <i class="bi bi-pencil-fill"></i>
+                                            </a>
+                                            <a asp-action="ToggleReview" asp-route-ID="@review.ID" class="btn @(review.IsVisible ? "btn-warning" : "btn-secondary")">
+                                                @{
+                                                    if (review.IsVisible)
+                                                    {
+                                                        <i class="bi bi-eye-slash-fill"></i>
+                                                    }
+                                                    else
+                                                    {
+                                                        <i class="bi bi-eye"></i>
+                                                    }
+                                                }
+                                            </a>
+                                            <a asp-action="DeleteReview" asp-route-ID="@review.ID" class="btn btn-danger">
+                                                <i class="bi bi-trash-fill"></i>
+                                            </a>
+                                        </div>
+
+                                        <!-- edit form -->
+                                        <div class="admin-panel__form col-12 mt-1 px-4 py-2">
+
+                                            <form asp-action="EditReview" method="post" enctype="multipart/form-data">
+                                                <input asp-for="@review.ID" type="hidden" value="@review.ID" />
+                                                <input asp-for="@review.UserId" type="hidden" value="@review.UserId">
+                                                <input asp-for="@review.ProductId" type="hidden" value="@review.ProductId">
+
+                                                <div class="form-group">
+                                                    <label asp-for="@review.ReviewRating">Rating</label>
+                                                    <input asp-for="@review.ReviewRating" class="form-control" value="@review.ReviewRating" />
+                                                </div>
+
+                                                <div class="form-group">
+                                                    <label asp-for="@review.ReviewComment">Comment</label>
+                                                    <textarea asp-for="@review.ReviewComment" class="form-control" rows="5" value="@review.ReviewComment"></textarea>
+                                                </div>
+
+                                                <button type="submit" class="btn btn-primary">Done</button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                }
+                            }
+                        }
+
+                    </div>
+                </div>
+            }
+
+        </div>
+    }
+    else
+    {
+        <p>Empty</p>
+    }
+
+}
+
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/js/bootstrap4-toggle.min.js"></script>
+    <script src="~/js/alerts.js"></script>
+    <script>
+        const productItems = document.querySelectorAll('.admin-panel__item')
+
+        productItems.forEach(item => {
+            const toggleBtn = item.querySelector('.admin-panel__toggle')
+
+            toggleBtn.addEventListener('click', () => {
+                item.classList.toggle('admin-panel__item--active')
+            })
+
+            // Item's Reviews
+            const reviewItems = item.querySelectorAll('.admin-panel__review ')
+
+            reviewItems.forEach(review => {
+                const editBtn = review.querySelector('.admin-panel__edit')
+
+                editBtn.addEventListener('click', () => {
+                    review.querySelector('.admin-panel__form').classList.toggle('admin-panel__form--active')
+                })
+            })
+        })
+    </script>
+} 

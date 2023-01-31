@@ -1,0 +1,31 @@
+﻿@using eshop_srytr.Areas.Admin.Controllers
+@model CarouselItem;
+
+@{
+    if (String.IsNullOrWhiteSpace(ViewBag.Action) == false)
+    {
+    <form asp-action="@ViewBag.Action" method="post" enctype="multipart/form-data">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        @{
+            if (ViewBag.Action == nameof(CarouselController.Edit)) {
+                <input type="hidden" asp-for="ID" class="form-control" />
+            }
+        }
+
+        <div class="form-group">
+            <label asp-for="Image">Image source</label>
+            <input asp-for="Image" required type="file" class="form-control-file" accept="image/*" placeholder="Enter image file">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ImageAlt">Image alt</label>
+            <input asp-for="ImageAlt" type="text" class="form-control" placeholder="Enter image alt">
+            <span asp-validation-for="ImageAlt" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    }
+
+}
+

@@ -1,0 +1,237 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff !important;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+0
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    background-color: #fff!important;
+    color: #000 !important;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  background-color: #fff;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+.text-wrapper {
+    padding: 60px 0;
+}
+
+.noparallax {
+    width: 100%;
+    min-height: 85vh;
+    background-color: #fff;
+}
+
+.parallax {
+    width: 100%;
+    min-height: 250px;
+    background-image: url(https://wallpaperaccess.com/full/314769.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.custom-carousel .carousel-item {
+    position: relative;
+    max-height: 560px;
+    overflow: hidden;
+}
+
+/* Stars Rating */
+
+.rating {
+    position: relative;
+    max-width: 160px;
+}
+
+.rating--pointer * {
+    cursor: pointer;
+}
+
+.rating__inputs {
+    position: absolute;
+    z-index: 99;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.rating__inputs input {
+    width: calc(100%/5);
+    height: 100%;
+    opacity: 0; /* hidden inputs */
+}
+
+.rating__stars {
+    width: 100%;
+}
+
+.rating__score {
+    position: relative;
+    display: block;
+    width: 10em;
+    height: 2em;
+    background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCBmb250LXNpemU9IjEwMCIgeT0iMC44ZW0iIG9wYWNpdHk9IjAuMyI+4piFPC90ZXh0Pjwvc3ZnPg==);
+}
+
+.rating__score::-webkit-meter-optimum-value {
+    background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCBmb250LXNpemU9IjEwMCIgeT0iMC44ZW0iIGZpbGw9ImdvbGQiPuKYhTwvdGV4dD48L3N2Zz4=);
+}
+
+.rating__score::-webkit-meter-bar {
+    background: 0;
+    border: 0;
+    width: 10em;
+    height: 2em;
+}
+
+.rating--sm {
+    max-width: 80px !important;
+}
+
+.rating--sm .rating__score::-webkit-meter-bar,
+.rating--sm .rating__score {
+    width: 5em !important;
+    height: 1em !important;
+}
+
+/* Reviews */
+.reviews {
+    overflow-y: scroll;
+    max-height: 460px;
+}
+
+.reviews__item {
+    position: relative;
+}
+
+.reviews__edit {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+}
+
+/* Rating alert */
+.rating-alert {
+    position: absolute !important;
+    width: 100%;
+    transition: 0.3s all ease-in;
+    opacity: 0;
+}
+
+.show-alert {
+    opacity: 1 !important;
+}
+
+/* Admin Panel */
+.admin-panel {
+    margin: 1.5em auto;
+}
+
+.admin-panel .row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.admin-panel__item {
+    border-bottom: 1px solid #ddd;
+}
+
+.admin-panel__item--active {
+    background-color: #f2f6fa !important;
+}
+
+.admin-panel__item--active .admin-panel__reviews {
+    display: block !important;
+}
+
+.admin-panel__reviews {
+    display: none;
+    margin: 2.75em 0 !important;
+}
+
+.admin-panel__reviews img {
+    width: 1rem;
+}
+
+.admin-panel__toggle {
+    cursor: pointer;
+}
+
+.admin-panel__reviews > .row:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.admin-panel__reviews > .row:nth-child(odd) {
+    background-color: #fff;
+}
+
+.admin-panel__form {
+    display: none;
+}
+
+.admin-panel__form--active {
+    display: block !important;
+}
